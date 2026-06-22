@@ -1,4 +1,4 @@
-# A Guide to Finding Unknown Sources
+# A Guide to Finding Your Games
 
 There are 2 options
 

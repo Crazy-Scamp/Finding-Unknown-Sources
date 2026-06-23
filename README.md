@@ -1,7 +1,5 @@
 # A Guide to Finding Your Games
 
-There are 2 options
-
 ---
 
 # Option 1

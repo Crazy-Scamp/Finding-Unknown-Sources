@@ -15,7 +15,8 @@ https://github.com/user-attachments/assets/095c5bb4-55a0-40c4-a8ce-f0e5f5a702d3
 
 ---
 
-## ⚡️ LIGHTNING LAUNCHER
+## ⚡️ LIGHTNING LAUNCHER  <img width="385" height="78" alt="lightning launcher" src="https://github.com/user-attachments/assets/c004c286-99c5-4835-aa78-699e91413e74" />
+
 
 > - Lightning Launcher is a launcher designed for Oculus Quest that supports both official and sideloaded apps and games.
 > - It has been built with a focus on speed, flexiblity, and convenience.

@@ -22,6 +22,11 @@ https://github.com/user-attachments/assets/095c5bb4-55a0-40c4-a8ce-f0e5f5a702d3
 > - It has been built with a focus on speed, flexiblity, and convenience.
 > - It can run on any Android device, but has been tailored for the lastest updates to the Oculus/Meta Quest OS.
 
+
+---
+
+## SCREENSHOTS
+
 <img width="1280" height="800" alt="437280868-9d90d12f-cb0d-4e24-b5e2-27dfd0545cb0" src="https://github.com/user-attachments/assets/41e95aaf-881b-48f5-be0d-cf4f54ec5a7e" />
 
 ---

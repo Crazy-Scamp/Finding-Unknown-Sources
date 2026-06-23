@@ -22,6 +22,17 @@ https://github.com/user-attachments/assets/095c5bb4-55a0-40c4-a8ce-f0e5f5a702d3
 > - It has been built with a focus on speed, flexiblity, and convenience.
 > - It can run on any Android device, but has been tailored for the lastest updates to the Oculus/Meta Quest OS.
 
+---
+
+**DOWNLOAD FROM THE META STORE - Install Directly from the Meta Store on your Headset**
+**DOWNLOAND FROM VR CYBERDECK - Install From VR CyberDeck from the Database**
+
+---
+
+## Using Lightning Launcher
+
+> - Lightning Launcher is a launcher designed for Oculus Quest that supports both official and sideloaded apps and games.
+> - It has been built with a focus on speed, flexiblity, and convenience.
 
 ---
 

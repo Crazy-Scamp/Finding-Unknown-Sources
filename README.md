@@ -2,16 +2,16 @@
 
 ---
 
-# Option 1
+# Option 1 - Unknown Sources on your headset (see below video) 👇
 ---
 
-## 🈷️ Unknown Sources on your headset (see below video) 👇
+
 
 https://github.com/user-attachments/assets/095c5bb4-55a0-40c4-a8ce-f0e5f5a702d3
 
 ---
 
-# Option 2 (use a launcher) 👇
+# Option 2 - Use a Launcher 👇
 
 ---
 

@@ -24,8 +24,10 @@ https://github.com/user-attachments/assets/095c5bb4-55a0-40c4-a8ce-f0e5f5a702d3
 
 ---
 
-**DOWNLOAD FROM THE META STORE - Install Directly from the Meta Store on your Headset**
-**DOWNLOAND FROM VR CYBERDECK - Install From VR CyberDeck from the Database**
+# Where to get Lightning Launcher 👇
+
+**DOWNLOAD FROM THE META STORE** - Install Directly from the Meta Store on your Headset
+**DOWNLOAD FROM VR CYBERDECK** - Install with VR CyberDeck using the Database
 
 ---
 

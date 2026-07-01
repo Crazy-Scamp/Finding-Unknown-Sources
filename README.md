@@ -48,3 +48,5 @@ https://github.com/user-attachments/assets/095c5bb4-55a0-40c4-a8ce-f0e5f5a702d3
 
 <img width="1180" height="700" alt="526979101-4804027e-ac74-41aa-b6e4-fab3de65da74" src="https://github.com/user-attachments/assets/5c83ae19-cc13-45ec-b8b7-0841984f7059" />
 
+---
+<a href="https://hits.sh/github.com/Crazy-Scamp/Finding-Unknown-Sources/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/Finding-Unknown-Sources.svg?style=flat-square&label=Total%20Visitors&extraCount=10&color=1c628c"/></a>
